@@ -1,0 +1,238 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Poiret One', cursive;
+    font-size: 23px;
+    font-weight: 590;
+    color: rgb(0, 0, 0);
+}
+
+nav{
+    font-size: 25px;
+    font-weight: 600;
+    color: grey;
+    position: relative;
+    border-radius: 7px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.15);
+    
+}
+
+i{
+    color: white;
+}
+
+
+
+/*.background{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(161,114,214,1) 0%, rgba(218,124,196,1) 100%, rgba(228,89,183,1) 100%, rgba(6,15,88,1) 100%);
+}*/
+
+
+
+
+
+
+
+#piba{
+    width: 500px;
+}
+
+#titleh1{
+    font-size: 90px;
+    font-style: italic;
+    font-weight: 600;
+}
+
+#container{
+    margin-top: 150px;
+    margin-bottom: 200px;
+    text-align: right;
+}
+
+#container1content{
+    padding-top: 100px;
+    padding-left: 170px;
+}
+
+#titleh2{
+    font-size: 50px;
+    font-weight: 600;
+}
+
+#titleh3{
+    font-size: 30px;
+}
+
+#container2content{
+    padding-top: 100px;
+    padding-bottom: 30px;
+    text-align: right;
+    font-size: 21px;
+    padding-right: 15px;
+}
+
+#container2title{
+    font-size: 60px;
+    padding-bottom: 0px;
+    text-align: right;
+    padding-right: 3px;
+    font-style: italic;
+    font-weight: 600;
+    color:rgb(102, 101, 101);
+}
+
+#container2title2{
+    font-size: 55px;
+    padding-bottom: 30px;
+    text-align: right;
+    padding-right: 3px;
+    color:rgb(102, 101, 101);
+}
+
+#aboutme{
+    font-size: 23px;
+}
+
+#education{
+    text-align: center;
+    padding-top:60px;
+    margin-bottom: 80px;
+    font-size: 80px;
+    font-weight: 650;
+    color: rgb(102, 101, 101);
+    
+}
+
+#card-title{
+    color: rgb(88, 88, 88);
+    font-weight: 600;
+    font-size: 40px;
+}
+
+#card1{
+    padding: 40px;
+} 
+
+#card2{
+    
+    padding:40px;
+}
+
+#card-paragraph{
+    color: rgb(88, 88, 88);
+    font-size: 23px;
+    font-weight: 500;
+}
+
+#card-subtitles {
+    color: rgb(88, 88, 88);
+    margin-top: 20px;
+    font-style: italic;
+    font-size: 40px;
+}
+
+#view-certificate{
+    color: rgb(148, 147, 147);
+    font-size: 22px;
+    font-weight: 500;
+}
+
+#diploma-paragraph{
+    color: rgb(148, 147, 147);
+    padding-bottom: 48px;
+    font-weight: 500;
+    font-size: 23px;
+}
+
+#cards{
+    border-radius: 7px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.15);
+}
+
+.card-container{
+    background-color:rgb(248, 208, 31);
+}
+
+.header{
+    min-height: 17rem; 
+    margin-top: 50px;
+}
+
+#worktitle{
+    padding: 80px 0px 60px 0px;
+    margin-top: 160px;
+    font-size: 80px;
+    font-weight: 600;
+    color: rgb(102, 101, 101);
+    
+}
+
+#exp-2{
+    margin-bottom: 150px;
+}
+
+#work_experience{
+    font-size: 30px;
+    font-weight: 600;
+}
+
+#error404{
+    width: 500px;
+    padding-top: 90px;
+    margin-top: 120px;
+}
+
+#piba{
+    width: 500px;
+    padding-right: 90px;
+    padding-top: 40px;
+}
+
+#sobreMi{
+    width: 500px;
+}
+
+#knowledge-img{
+    width: 500px;
+    margin-top: 170px;
+}
+
+#projects{
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 0px;
+    margin-bottom: 40px;
+    font-size: 70px;
+    font-weight: 650;
+    color:rgb(102, 101, 101);
+}
+
+#projectscard_content{
+    text-align: left;
+}
+
+#projects-title{
+    font-size: 50px;
+    font-weight: 650;
+    color: white;
+}
+
+#projects-paragraph{
+    font-size: 23px;
+    font-weight: 500;
+}
+
+#projects-card{
+    border-radius: 7px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.15);
+    width: auto;
+    background-color: rgb(248, 208, 31);
+}
+
+footer{
+    font-size: 20px;
+}
